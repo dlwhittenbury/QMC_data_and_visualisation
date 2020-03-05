@@ -1,0 +1,22 @@
+---
+documentclass: extarticle
+fontsize: 8pt
+
+Comment:  This is a comment intended to demonstrate
+          metadata that spans multiple lines, yet
+          is treated as a single value.
+
+
+colorlinks: true
+urlcolor: teal
+linkcolor: violet
+toccolor: purple
+filecolor: red
+citecolor: orange
+
+toc: true
+
+geometry:
+- margin=0.75in
+
+---

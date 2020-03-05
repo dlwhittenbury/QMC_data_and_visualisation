@@ -1,0 +1,39 @@
+         F          # Phenomenological rescaling of hyperon couplings used
+         T          # FitCCs
+ 1.131775E+01       # G_{\sigma} ........ [fm^{-2}]
+ 7.245520E+00       # G_{\omega} ........ [fm^{-2}]
+ 4.518552E+00       # G_{\rho} ........ [fm^{-2}]
+ 1.193415E+01       # g_{\sigma}
+ 1.067549E+01       # g_{\omega}
+ 8.357238E+00       # g_{rho}
+ 1.600000E-01       # \rho_{0} ........ [fm^{-3}]
+-1.586500E+01       # \mathcal{E} ........ [MeV]
+ 3.250000E+01       # S_{0} ....... [MeV]
+         T          # QMC Bag Mass parametrisation option
+ 8.000000E-01       # RNFree ....... [fm]
+         F          # QMC NJL Mass parametrisation option
+         5          # cOpt
+         T          # Sigma Fock term
+         T          # Omega Fock term
+         T          # Rho Fock term
+         F          # Pi Fock term
+         F          # Fock term correction to scalar field
+         T          # Effective sigma meson mass in Fock term [MeV]
+         T          # Non-relativistic approx. used for eff. sigma meson mass
+         T          # Sigma Basic Fock term structure
+         T          # Omega Basic Fock term structure
+         T          # Rho Basic Fock term structure
+         T          # Pion Basic Fock term structure
+         T          # Tensor coupling option
+ 9.000000E+02       # \Lambda_{\sigma} ........ [MeV]
+ 9.000000E+02       # \Lambda_{\omega} ........ [MeV]
+ 9.000000E+02       # \Lambda_{\rho} ........ [MeV]
+ 9.000000E+02       # \Lambda_{\pi} ........ [MeV]
+         2          # asym method 
+ 3.000000E+01       # Symmetry energy S_0 ........ [MeV]
+         F          # SymmetricMatLong option initiated
+         F          # SymTable option initiated
+         F          # NeutronMatter option initiated
+         T          # NeutronMatterHigh option initiated
+         F          # BetaEquilibrium option initiated
+         T          # Include hyperons
